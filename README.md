@@ -1,7 +1,6 @@
 # Customer-Churn-Analysis
-I built a Customer Churn Analysis Dashboard to Identify why customers are leaving, and how to retain it. I built this project using Excel for data cleaning and Tableau for creating interactive dashboards.
 
---
+I built a Customer Churn Analysis Dashboard to Identify why customers are leaving, and how to retain it. I built this project using Excel for data cleaning and Tableau for creating interactive dashboards.
 
 ## Objective
 
@@ -36,9 +35,9 @@ To understand **why customers are leaving**, identify key factors contributing t
 
 ## Dashboard Snapshot
 
-![Churn Dashboard](customer/churn/dashboard.png)
+![Customer Churn Dashboard](visuals/customer_churn_dashboard.png)
 
-> You can view the interactive version here: [Tableau Public Dashboard](https://public.tableau.com/your-link-here)
+> You can view the interactive version here: [Tableau Public Dashboard](https://public.tableau.com/app/profile/naina.sonkar/viz/CustomerChurnAnalysis_17466181690340/Dashboard1)
 
 ## Contact
 
