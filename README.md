@@ -35,7 +35,7 @@ To understand **why customers are leaving**, identify key factors contributing t
 
 ## Dashboard Snapshot
 
-![Customer Churn Dashboard](visuals/customer_churn_dashboard.png)
+![Customer Churn Dashboard](customer_churn_dashboard.png)
 
 > You can view the interactive version here: [Tableau Public Dashboard](https://public.tableau.com/app/profile/naina.sonkar/viz/CustomerChurnAnalysis_17466181690340/Dashboard1)
 
@@ -43,7 +43,7 @@ To understand **why customers are leaving**, identify key factors contributing t
 
 Feel free to reach out:
 
--  [Your LinkedIn](https://www.linkedin.com/in/nainasonkar/)
+-  [LinkedIn](https://www.linkedin.com/in/nainasonkar/)
 -  Email: sonkarnaina310@gmail.com
 
 ## Thankyou!
