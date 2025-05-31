@@ -45,5 +45,3 @@ Feel free to reach out:
 
 -  [LinkedIn](https://www.linkedin.com/in/nainasonkar/)
 -  Email: sonkarnaina310@gmail.com
-
-## Thankyou!
